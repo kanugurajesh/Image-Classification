@@ -68,16 +68,12 @@ Run the app
 ## Screenshots
 
 ### App Icon
-![Splash Screen](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20140626.png?updatedAt=1697967029718)
-
-### Splash Screen
-![Starting Screen](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20150508.png?updatedAt=1697967364437)
+![Splash Screen](https://ik.imagekit.io/hbzknb1hm/splash-image.jpg?updatedAt=1698084100882)
 
 ### App Inside
-![Image Uploading](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20150516.png?updatedAt=1697967364757)
+![Image Uploading](https://ik.imagekit.io/hbzknb1hm/open-image.jpg?updatedAt=1698084100850)
 
 ## Demo
-
 ![Image-classifier](https://github.com/rajesh604/Image-Classification/assets/77529419/f1d9e201-9401-4321-9285-f88dad413ae8)
 
 ## 🔗 Links
