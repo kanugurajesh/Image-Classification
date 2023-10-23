@@ -1,4 +1,4 @@
-# SnapScale - Contribution Guidelines
+# Image-Classfication - Contribution Guidelines
 
 Thank you for considering contributing to SnapScale! We welcome contributions from the open-source community to help make image resizing easier and more accessible for everyone. Here are some guidelines to follow when contributing to this project:
 
