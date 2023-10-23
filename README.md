@@ -1,28 +1,29 @@
 ﻿<div align="center">
-  <img src="https://ik.imagekit.io/hbzknb1hm/resize.png?updatedAt=1697969118065" alt="SnapScale Logo" width="150" height="150">
+  <img src="https://ik.imagekit.io/hbzknb1hm/vision.png?updatedAt=1698084347083" alt="SnapScale Logo" width="150" height="150">
 </div>
 <br/>
 
-# SnapScale
+# 🚀 Smart Image Classifier: An Offline Mobile Solution 📷
 
-SnapScale is an Image Resizer used to resize any image easily and it can setup on windows, mac, linux systems locally
+## Problem Statement 🧐
 
-## Problem Statement
+In a world awash with images, the ability to recognize and understand the content within them is a challenge for many. While online solutions like Google Lens exist, they are often limited by the requirement for an internet connection 🌐. This leaves a gap for an intelligent offline image classification tool.
 
-Image resizers are commonly found online, 🌐 but many of them require sign-ups or offer subscription models. 😫 Even though some are free, people often find it cumbersome to navigate to a website, upload an image, 📷 wait for the resizing process, and then download the final result. 🕒📥
+## Solution 💡
 
-## Solution
+Introducing the Smart Image Classifier 📱, a mobile application designed to empower users with the ability to effortlessly classify images without the need for an internet connection. This innovative solution harnesses the combined strength of TensorFlow Lite 🧠 and Android (Kotlin) 🤖, providing a user-friendly interface for image classification.
 
-SnapScale is the ultimate solution to your image resizing needs! 🌟 No subscription model or annoying sign-up required. 🚫💳 Install it right on your local machine for super-convenient image handling. 🖥️🎉 With SnapScale, resizing images is a piece of 🍰 – no need to hassle with downloading images, they're automatically fetched after resizing! ⚙️💨 It's lightning-fast and incredibly user-friendly! 🏃‍♂️💨 Try it out today!
+With the Smart Image Classifier, you can identify and categorize objects, scenes, and much more 🌟. Whether you're a curious explorer 🔍, a student conducting research 📚, or simply someone looking to understand their surroundings better, this tool allows you to do so with ease, anytime and anywhere 🌍.
 
+Say goodbye to the limitations of online-only solutions and embrace the power of offline image classification at your fingertips 📲. The Smart Image Classifier - your window to a smarter, more connected world 🌠.
 
-## Features
+## ✨ Features
 
-- Eye Friendly colors
-- Fullscreen mode
-- Cross platform
-- Offline
-- Easy to use
+- 🌈 Eye-Pleasing Color Scheme: Enjoy a visually appealing and comfortable user interface.
+- 📺 Fullscreen Mode: Immerse yourself in the classification experience with our full-screen mode.
+- 🌐 Cross-Platform Compatibility: Access and use the Smart Image Classifier on various devices and operating systems.
+- 📴 Offline Functionality: Classify images without the need for an internet connection, ensuring your privacy and convenience.
+- 🚀 User-Friendly Interface: Easily navigate and interact with the app, making image classification a breeze.
 
 ## Prerequisites
 
