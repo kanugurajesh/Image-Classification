@@ -68,12 +68,13 @@ Run the app
 ## Screenshots
 
 ### App Icon
-![Splash Screen](https://ik.imagekit.io/hbzknb1hm/splash-image.jpg?updatedAt=1698084100882)
+<img src="https://ik.imagekit.io/hbzknb1hm/splash-image.jpg?updatedAt=1698084100882" alt="App Icon" width=300 height=500>
 
 ### App Inside
-![Image Uploading](https://ik.imagekit.io/hbzknb1hm/open-image.jpg?updatedAt=1698084100850)
+<img src="https://ik.imagekit.io/hbzknb1hm/open-image.jpg?updatedAt=1698084100850" alt="App Inside" width=300 height=500>
 
 ## Demo
+
 ![Image-classifier](https://github.com/rajesh604/Image-Classification/assets/77529419/f1d9e201-9401-4321-9285-f88dad413ae8)
 
 ## 🔗 Links
@@ -93,9 +94,9 @@ Run the app
 
 I want to add more features and Contributions are always welcome!
 
-See [contributing.md](https://github.com/rajesh604/SnapScale/blob/main/contributing.md) for ways to get started.
+See [contributing.md](https://github.com/rajesh604/Image-Classification/blob/main/contributing.md) for ways to get started.
 
-Please adhere to this project's [code of conduct](https://github.com/rajesh604/SnapScale/blob/main/code_of_conduct.md).
+Please adhere to this project's [code of conduct](https://github.com/rajesh604/Image-Classification/blob/main/code_of_conduct.md).
 
 ## Authors
 
