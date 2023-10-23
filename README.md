@@ -19,11 +19,35 @@ Say goodbye to the limitations of online-only solutions and embrace the power of
 
 ## ✨ Features
 
-- 🌈 Eye-Pleasing Color Scheme: Enjoy a visually appealing and comfortable user interface.
-- 📺 Fullscreen Mode: Immerse yourself in the classification experience with our full-screen mode.
-- 🌐 Cross-Platform Compatibility: Access and use the Smart Image Classifier on various devices and operating systems.
-- 📴 Offline Functionality: Classify images without the need for an internet connection, ensuring your privacy and convenience.
-- 🚀 User-Friendly Interface: Easily navigate and interact with the app, making image classification a breeze.
+- <b>Offline Image Classification</b> 📴: No internet connection required, ensuring reliability even in remote areas.
+
+- <b>Object Recognition</b> 🕵️‍♂️: Identifies and classifies various objects within images, aiding in tasks like inventory management 📦.
+
+- <b>Scene Analysis</b> 🌆: Recognizes and categorizes different scenes, from landscapes 🏞️ to bustling city streets 🏙️.
+
+- <b>User-Friendly Interface</b> 📲: Intuitive and user-friendly, accessible to a wide range of users.
+
+- <b>Cross-Platform Compatibility</b> 📱: Designed for Android (Kotlin) for use on a variety of Android devices.
+
+- <b>TensorFlow Lite Integration</b> 🧠: Efficient image classification with TensorFlow Lite.
+
+- <b>Real-time Classification</b> 📷: Instant results by pointing the camera at an object or scene.
+
+- <b>Customizable Categories</b> 🎨: Define and customize categories for classification.
+
+- <b>Educational Tool</b> 📚: Valuable for students to learn about image recognition and AI.
+
+- <b>No Subscription Required</b> 💰: One-time purchase or free to use, no recurring fees.
+
+- <b>Privacy-Focused</b> 🔒: User data is private, and no online connectivity is required.
+
+- <b>Continuous Updates</b> 🔄: Regular updates to improve image recognition capabilities.
+
+- <b>Offline Database</b> 📂: Extensive offline image database for swift classification.
+
+- <b>Share and Save Results</b> 💾: Easily save and share classification results with others.
+
+- <b>Accessible Anytime, Anywhere</b> 🌍: Classify images in any location or situation.
 
 ## Prerequisites
 
