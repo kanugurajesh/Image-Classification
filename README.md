@@ -67,24 +67,18 @@ Run the app
 
 ## Screenshots
 
-### Splash Screen
+### App Icon
 ![Splash Screen](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20140626.png?updatedAt=1697967029718)
 
-### Starting Screen
+### Splash Screen
 ![Starting Screen](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20150508.png?updatedAt=1697967364437)
 
-### Image Uploading
+### App Inside
 ![Image Uploading](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20150516.png?updatedAt=1697967364757)
-
-### After Image Upload
-![After Image Upload](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20150522.png?updatedAt=1697967364753)
-
-### After Resizing download Image opens
-![After Resizing downloaded image opens](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20150536.png?updatedAt=1697967365630)
 
 ## Demo
 
-[![Watch the video](https://ik.imagekit.io/hbzknb1hm/Screenshot%202023-10-22%20150508.png?updatedAt=1697967364437)](https://youtu.be/ISmqmLtC4fc?feature=shared)
+![Image-classifier](https://github.com/rajesh604/Image-Classification/assets/77529419/f1d9e201-9401-4321-9285-f88dad413ae8)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajeshportfolio.me/)
@@ -93,11 +87,11 @@ Run the app
 
 ## Tech Stack
 
-- Html
-- Css
-- JavaScript
-- Electron.js
-- Node.js
+- Kotlin
+- XML
+- Android Studio
+- Tensorflow
+- Tensorflow-lite
 
 ## Contributing
 
@@ -118,5 +112,3 @@ For support, you can buy me a coffee
 <a href="https://www.buymeacoffee.com/kanugurajen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-![Image-classifier](https://github.com/rajesh604/Image-Classification/assets/77529419/f1d9e201-9401-4321-9285-f88dad413ae8)
