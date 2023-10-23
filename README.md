@@ -52,17 +52,17 @@ Say goodbye to the limitations of online-only solutions and embrace the power of
 ## Prerequisites
 
 ```bash
-1. git setup on local machine
-2. npm
+1. Android Studio
 ```
 
 ## Installation
 
 ```bash
-git clone git@github.com:rajesh604/SnapScale.git
-cd SnapScale
-npm install
-npm start
+git clone git@github.com:rajesh604/Image-Classification.git
+cd Image-Classification
+Open the project in android studio
+Build the project
+Run the app
 ```
 
 ## Screenshots
