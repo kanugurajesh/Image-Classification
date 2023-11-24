@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-# 🚀 Smart Image Classifier: An Offline Mobile Solution 📷
+# Smart Image Classifier: An Offline Mobile Solution
 
 ## Problem Statement 🧐
 
