@@ -1,5 +1,6 @@
-### ✨ Star my repo if you like it
- 
+#### ✨ Star my repo if you like it
+ <br>
+ <br>
  <div align="center">
   <img src="https://ik.imagekit.io/hbzknb1hm/vision.png?updatedAt=1698084347083" alt="SnapScale Logo" width="150" height="150">
 </div>
