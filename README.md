@@ -58,7 +58,7 @@ Say goodbye to the limitations of online-only solutions and embrace the power of
 ## Installation
 
 ```bash
-git clone git@github.com:rajesh604/Image-Classification.git
+git clone git@github.com:kanugurajesh/Image-Classification.git
 cd Image-Classification
 Open the project in android studio
 Build the project
@@ -75,7 +75,7 @@ Run the app
 
 ## Demo
 
-![Image-classifier](https://github.com/rajesh604/Image-Classification/assets/77529419/f1d9e201-9401-4321-9285-f88dad413ae8)
+![Image-classifier](https://github.com/kanugurajesh/Image-Classification/assets/77529419/f1d9e201-9401-4321-9285-f88dad413ae8)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajeshportfolio.me/)
@@ -94,13 +94,13 @@ Run the app
 
 I want to add more features and Contributions are always welcome!
 
-See [contributing.md](https://github.com/rajesh604/Image-Classification/blob/main/contributing.md) for ways to get started.
+See [contributing.md](https://github.com/kanugurajesh/Image-Classification/blob/main/contributing.md) for ways to get started.
 
-Please adhere to this project's [code of conduct](https://github.com/rajesh604/Image-Classification/blob/main/code_of_conduct.md).
+Please adhere to this project's [code of conduct](https://github.com/kanugurajesh/Image-Classification/blob/main/code_of_conduct.md).
 
 ## Authors
 
-- [@rajesh604](https://github.com/rajesh604)
+- [@kanugurajesh](https://github.com/kanugurajesh)
 
 ## Support
 
@@ -108,4 +108,4 @@ For support, you can buy me a coffee
 
 <a href="https://www.buymeacoffee.com/kanugurajen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/rajesh604/Image-Classification/blob/main/LICENSE.txt)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kanugurajesh/Image-Classification/blob/main/LICENSE.txt)
